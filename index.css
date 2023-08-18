@@ -1,0 +1,61 @@
+body {
+    padding: 24px;
+    text-align: center;
+}
+
+/*This will be the css for the heading*/
+#header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+    align-items: center;
+}
+
+/*This is the css for the hero section*/
+#heroSection {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(250, 235, 215, 0.3);
+    margin-bottom: 4rem;
+}
+
+#heroSectionText {
+    width: 33.33%;
+}
+
+#heroSectionImage {
+    width: 500px;
+}
+
+#heroSectionImage img {
+    width: 400px;
+}
+
+/*Buttons*/
+#headerBtn {
+    border-radius: 16px;
+    background-color: rgba(250, 235, 215, 0.3);
+    border-style: solid 1px;
+    height: 0%;
+    padding: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-weight: bold;
+}
+
+#footerBtn {
+    align-items: center;
+    border-radius: 16px;
+    background-color: rgba(250, 235, 215, 0.3);
+    border-style: solid 1px;
+    height: 0%;
+    padding: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-weight: bold;
+}
+
+#div {
+    text-align: center;
+}
+
